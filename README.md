@@ -1,6 +1,6 @@
-# Vue Calculator
+# Calculadora Simples em Vue.js
 
-Uma calculadora simples projetada com Vue.js.
+Esta é uma pequena aplicação desenvolvida apenas para aprimoramento de habilidades. Trata-se de uma calculadora simples projetada com Vue.js.
 
 ## Tecnologias utilizadas
 
