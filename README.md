@@ -1,10 +1,11 @@
 # Calculadora Simples em Vue.js
+> Desenvolvimento com Vue.js 3.0
 
 Esta é uma pequena aplicação desenvolvida apenas para aprimoramento de habilidades. Trata-se de uma calculadora simples projetada com Vue.js.
 
 ## Tecnologias utilizadas
 
-- Vue.js
+- Vue.js 3.0
 - Javascript
 - HTML
 - CSS
