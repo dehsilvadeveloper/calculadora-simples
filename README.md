@@ -1,24 +1,36 @@
-# calculadora
+# Vue Calculator
 
-## Project setup
+Uma calculadora simples projetada com Vue.js.
+
+## Tecnologias utilizadas
+
+- Vue.js
+- Javascript
+- HTML
+- CSS
+- Bootstrap 5.0
+- Vue-Fontawesome 3.0.0-4
+
+## Inicialização
+
+### *Instalação das dependências*
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### *Compila e executa com hot-reload para desenvolvimento*
 ```
 npm run serve
 ```
 
-### Compiles and minifies for production
+### *Compila arquivos para produção com minificação*
 ```
 npm run build
 ```
 
-### Lints and fixes files
-```
-npm run lint
-```
+## TO DO
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+- Permitir adicionar caracteres e operações pelo teclado
+- Exibir histórico de cálculos efetuados
+- Apagar lista de histórico de cálculos efetuados
+- Melhorar responsividade
